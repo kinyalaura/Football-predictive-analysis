@@ -1,6 +1,6 @@
 # Mchezopesa Limited Football-predictive-analysis
 
-![GitHub Logo](football.jpeg)
+![football Logo](football.jpeg)
 
 >**Description**
 
