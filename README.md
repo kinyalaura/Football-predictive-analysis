@@ -26,9 +26,7 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 
 **Dataset Columns**
 
-Some features are available on the FIFA ranking page [Link (Links to an external site.)].
-
-Rank
+* Rank
 * Country Abbreviation
 * Total Points
 * Previous Points
@@ -50,9 +48,6 @@ Rank
 * Country - the name of the country where the match was played
 * Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
-**Dataset**
-
-The dataset and glossary to use for this project can be found here. [Link (Links to an external site.)]
 
 **Requirements**
 
