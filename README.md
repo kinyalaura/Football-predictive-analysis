@@ -2,7 +2,7 @@
 
 ![GitHub Logo](football.jpeg)
 
-**Description**
+>**Description**
 
 A prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly
 
@@ -50,6 +50,9 @@ Rank
 * Country - the name of the country where the match was played
 * Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
+**Dataset**
+
+The dataset and glossary to use for this project can be found here. [Link (Links to an external site.)]
 
 **Requirements**
 
@@ -75,6 +78,8 @@ There were no known bugs are the time of completion
 
 In case of any clarifications or suggestions with regards to this project email me at ngolua.kinya@gmail.com
 
-**Licences**
+>**Licences**
 
 MIT license
+
+:soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer:
