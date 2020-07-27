@@ -83,3 +83,48 @@ In case of any clarifications or suggestions with regards to this project email 
 MIT license
 
 :soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer:
+
+>Chapter one:Documentation
+
+* Defining the analytical question
+* Specifying the data analytic question
+* Defining the metric for success
+* Understanding the context
+* Recording the Experimental Design
+* Data Relevance
+
+>Chapter Two: Reading and Initial Data Exploration
+
+* Checking the packaging of the dataset
+
+>Chapter three: Data Cleaning
+
+* validity
+* Completeness
+* Consistency
+* Uniformity
+* Checking for outliers
+
+>Chapter Four:Univariate Analysis
+
+* Measures of central tendancy
+* Measures of spread
+* Categorical analysis
+* Numerical Analysis
+
+>Chapter Six: Option I - Polinomial Linear Regression
+
+* Detecting multicollinearity
+* Train/Test split of train Dataset for home score
+* Train/Test split of train Dataset for away score
+* Computing RMSE for the model
+* Cross validation using K-fold
+* Residual Plots and heteroskedasticity
+* Polynomial Regression - model 1
+* Polynomial Regression - model 2
+
+>Chapter Seven: Option II - Logistic Regression
+
+* Grid Search
+
+>Chapter Eight : Challenging and conclusion
