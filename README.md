@@ -84,6 +84,8 @@ MIT license
 
 :soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer::soccer:
 
+**Table of Contents**
+
 >Chapter one:Documentation
 
 * Defining the analytical question
